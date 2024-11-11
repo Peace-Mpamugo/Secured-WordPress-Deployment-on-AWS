@@ -108,7 +108,7 @@ Report From One of My Instructor Mr Oluwatosin
 ![project report](https://github.com/user-attachments/assets/6aba18ba-1c67-4695-9370-3f7d545fcc7c)
 
 
-Below are some screenshots illustrating key stages of the setup. Each is saved in the /screenshots directory of this repository.
+Below are some screenshots illustrating key stages of the setup.
 ![Screenshot 2024-11-09 183806](https://github.com/user-attachments/assets/ad4f3cfb-a529-416f-bbed-1d5b40d7e6e9)
 ![ROUTE 53 NS in Namecheap @my domain name](https://github.com/user-attachments/assets/3728204a-e87d-44e5-921c-98952e42b5e5)
 ![R53](https://github.com/user-attachments/assets/dfff7c3d-2cd1-4813-b4c9-87f09cf6aca0)
