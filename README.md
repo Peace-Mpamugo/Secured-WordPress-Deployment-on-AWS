@@ -105,7 +105,7 @@ After completing these steps, I could see the WordPress site live, secured, and 
 
 
 Report From One of My Instructor Mr Oluwatosin
-![project report](https://github.com/user-attachments/assets/6aba18ba-1c67-4695-9370-3f7d545fcc7c)
+![project report](https://github.com/user-attachments/assets/23e5bbe1-a900-4973-8aa7-d34d0e2b645d)
 
 
 Below are some screenshots illustrating key stages of the setup.
